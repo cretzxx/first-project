@@ -1,0 +1,11 @@
+.container {
+  background-color: rgba(0, 255, 136, 0.948);
+  border-radius: 15px;
+  height: auto;
+  width: 50%;
+  color: blue;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 12px;
+  padding: 5%;
+}
